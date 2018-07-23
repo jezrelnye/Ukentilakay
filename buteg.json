@@ -20,7 +20,7 @@
   {
     "id": 201,
     "name": "Kahuna Beach Resort",
-    "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat3.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/jezrelnye/Ukentilakay/master/image/3.jpg",
     "price": 150,
     "priceCurrency": "Pesos",
     "lat": 16.6583,
@@ -29,7 +29,7 @@
   {
     "id": 205,
     "name": "Baywalk",
-    "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat4.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/jezrelnye/Ukentilakay/master/image/bayw.jpg",
     "price": 20,
     "priceCurrency": "Pesos",
     "lat": 16.617379,
@@ -38,7 +38,7 @@
   {
     "id": 210,
     "name": "Immuki Island",
-    "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat5.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/jezrelnye/Ukentilakay/master/image/imm.jpg",
     "price": 120,
     "priceCurrency": "Pesos",
     "lat": 16.8022,
@@ -47,7 +47,7 @@
   {
     "id": 211,
     "name": "Bohemian Balay Mi",
-    "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat6.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/jezrelnye/Ukentilakay/master/image/was.png",
     "price": 0,
     "priceCurrency": "Pesos",
     "lat": 16.6781,
