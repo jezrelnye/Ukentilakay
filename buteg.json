@@ -19,38 +19,38 @@
   },
   {
     "id": 201,
-    "name": "Super 60m2 in trendy neighborhood!",
+    "name": "Kahuna Beach Resort",
     "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat3.jpg",
     "price": 150,
     "priceCurrency": "Pesos",
-    "lat": 48.885312,
-    "lng": 2.341225
+    "lat": 16.6583,
+    "lng": 120.3217
   },
   {
     "id": 205,
-    "name": "Splendide terrasse vue imprenable",
+    "name": "Baywalk",
     "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat4.jpg",
-    "price": 115,
+    "price": 20,
     "priceCurrency": "Pesos",
-    "lat": 48.881840,
-    "lng": 2.343371
+    "lat": 16.617379,
+    "lng": 120.290809
   },
   {
     "id": 210,
-    "name": "Superbe vue à 2 min du Sacré Coeur",
+    "name": "Immuki Island",
     "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat5.jpg",
-    "price": 135,
+    "price": 120,
     "priceCurrency": "Pesos",
-    "lat": 48.888839,
-    "lng": 2.339208
+    "lat": 16.8022,
+    "lng": 120.4012
   },
   {
     "id": 211,
-    "name": "Bohemian and Chic in Paris",
+    "name": "Bohemian Balay Mi",
     "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat6.jpg",
-    "price": 90,
+    "price": 0,
     "priceCurrency": "Pesos",
-    "lat": 48.827855,
-    "lng": 2.350774
+    "lat": 16.6781,
+    "lng": 120.3940
   }
 ]
